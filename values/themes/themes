@@ -1,1 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <style name="Base.Theme.Projectmad" parent="Theme.Material3.DayNight.NoActionBar">
+        
+    </style>
 
+    <style name="Theme.Projectmad" parent="Base.Theme.Projectmad" />
+</resources>
